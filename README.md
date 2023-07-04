@@ -35,11 +35,13 @@ ormanlara yerlestirilerek ısı nem duman değişikliklerini hemen farkedecek ve
 - 1K Ohm Resistor
 #### Projenin Kurulmuş Hali
 - Projenin kurulmuş hali aşağıdaki görseldeki gibidir.
+  ![devre_Semasi](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/9dc9e593-e76b-47dc-b025-df943a67a632)
 ### Yeterlilik ve Özgünlük Tarafı
 - Bu zamana kadar orman yangınlarını önlemek, erken müdahale etmek adına birçok çalışma yapılmıştır. Bu projeyi diğer çalışmalardan ayıran fark, hem elektroniğin hem de programlamanın bir arada kullanıldığı basit bir tasarıma sahip olmasidir. Üstelik proje düşük maliyetli olduğundan uygulunabilirliği ve sürdürülebilirliği yüksektir. Ayrıca programlanın açık ve geliştirilebilir olması kullandıkça görülen eksikliklerin ve doğacak ihtiyaçların da tasarlayacağımız proje çalışmamıza katkı sağlayacaktır.
 ### Hedef Kitle
 - Bu projenin hedef kitlesi orman yangınlarıyla mücadele eden birimler ve ormanlık alanda yaşayan halktır. Daha da genısletecek olursak onune gecılemeyen her yangının cografyamız ve ıklım sartlarınıda buyuk oranda olumsuz etkıleyecegı ıcın ulkemizdeki herhangi bir ormanlik alanda kullanilabilir. Dolayısıyla projemiz özellikle Orman Bölge Müdürlüğü’nün işini kolaylaştıracaktır. Erken uyarı sistemi olacak bu proje sayesinde ormanlık alanda yaşayan insanlar ve yangın söndürme birimleri yangının çıktığı yere hızlıca ulaşıp yangın büyümeden müdahale edeceklerdir. Ayrıca Orman Bolge Mudurlugu’ne sureklı olarak belırlı aralıklarla degısıklıklerın raporu bıldırılecektır. Boylece kotuye gıdebılecek bır durumun farkına erkenden varılmıs olunacaktır.
 ## Proje ile ilgili Görseller ve Video
+![image1](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/fa629ab4-45fb-4a27-8117-f4a16bb59cc3)
 
 ## Kaynakça
 -Bilgili E., (2014), Orman Koruma Dersı̇ Geçicı̇ Ders Notları (Yayınlanmamış), Karadeniz Teknik Üniversitesi, Trabzon, ss.13–56.
