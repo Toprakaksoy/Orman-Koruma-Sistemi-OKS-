@@ -42,6 +42,12 @@ ormanlara yerlestirilerek ısı nem duman değişikliklerini hemen farkedecek ve
 - Bu projenin hedef kitlesi orman yangınlarıyla mücadele eden birimler ve ormanlık alanda yaşayan halktır. Daha da genısletecek olursak onune gecılemeyen her yangının cografyamız ve ıklım sartlarınıda buyuk oranda olumsuz etkıleyecegı ıcın ulkemizdeki herhangi bir ormanlik alanda kullanilabilir. Dolayısıyla projemiz özellikle Orman Bölge Müdürlüğü’nün işini kolaylaştıracaktır. Erken uyarı sistemi olacak bu proje sayesinde ormanlık alanda yaşayan insanlar ve yangın söndürme birimleri yangının çıktığı yere hızlıca ulaşıp yangın büyümeden müdahale edeceklerdir. Ayrıca Orman Bolge Mudurlugu’ne sureklı olarak belırlı aralıklarla degısıklıklerın raporu bıldırılecektır. Boylece kotuye gıdebılecek bır durumun farkına erkenden varılmıs olunacaktır.
 ## Proje ile ilgili Görseller ve Video
 ![image1](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/fa629ab4-45fb-4a27-8117-f4a16bb59cc3)
+![6](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/37594f28-350f-4c73-9359-0058f9ca485c)
+![5](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/71b1424f-6012-4fe5-82cd-61ec21559a7e)
+![4](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/5069ec0c-6b14-4c1e-8cca-54d4e214e3b6)
+![3](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/00a05e74-0737-4d14-a228-3bd68c9f02b5)
+![2](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/14d9848b-b7d7-4e2a-adee-471eb4ffe2fa)
+![7](https://github.com/Toprakaksoy/Orman-Koruma-Sistemi-OKS-/assets/134775576/d2b77c7c-6bf2-4118-aace-96a9775a43eb)
 
 ## Kaynakça
 -Bilgili E., (2014), Orman Koruma Dersı̇ Geçicı̇ Ders Notları (Yayınlanmamış), Karadeniz Teknik Üniversitesi, Trabzon, ss.13–56.
